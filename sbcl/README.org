@@ -1,0 +1,10 @@
+* Another Implementation of MAL in Common Lisp
+
+** Introduction
+
+This is a simplified implementation of MAL in SBCL Common Lisp. It will depend
+on less dependencies.
+
+** Dependencies
+
+None so far except for SBCL.
